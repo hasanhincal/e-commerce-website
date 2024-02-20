@@ -18,10 +18,10 @@ Codded in HTML5 ve CSS3
 
 ![](images/Ekran%20görüntüsü%202024-02-20%20090928.png)
 
-![](images/Ekran görüntüsü 2024-02-20 091021.png)
+![](images/Ekran%20görüntüsü%202024-02-20%20091021.png)
 
-![](images/Ekran görüntüsü 2024-02-20 091135.png)
+![](images/Ekran%20görüntüsü%202024-02-20%20091135.png)
 
-![](images/Ekran görüntüsü 2024-02-20 091207.png)
+![](images/Ekran%20görüntüsü%202024-02-20%20091207.png)
 
-![](images/Ekran görüntüsü 2024-02-20 091232.png)
+![](images/Ekran%20görüntüsü%202024-02-20%20091232.png)
