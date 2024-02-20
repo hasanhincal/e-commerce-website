@@ -16,12 +16,12 @@ Codded in HTML5 ve CSS3
 
 <h2>Screen picture</h2>
 
-![](Ekran görüntüsü 2024-02-20 090928.png)
+![](images/Ekran%20görüntüsü%202024-02-20%20090928.png)
 
-![](Ekran görüntüsü 2024-02-20 091021.png)
+![](images/Ekran görüntüsü 2024-02-20 091021.png)
 
-![](Ekran görüntüsü 2024-02-20 091135.png)
+![](images/Ekran görüntüsü 2024-02-20 091135.png)
 
-![](Ekran görüntüsü 2024-02-20 091207.png)
+![](images/Ekran görüntüsü 2024-02-20 091207.png)
 
-![](Ekran görüntüsü 2024-02-20 091232.png)
+![](images/Ekran görüntüsü 2024-02-20 091232.png)
