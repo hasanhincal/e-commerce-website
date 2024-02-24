@@ -13,15 +13,3 @@ Codded in HTML5 ve CSS3
 <h2>Screen Gif</h2>
 
 ![](screen2.gif)
-
-<h2>Screen picture</h2>
-
-![](images/Ekran%20görüntüsü%202024-02-20%20090928.png)
-
-![](images/Ekran%20görüntüsü%202024-02-20%20091021.png)
-
-![](images/Ekran%20görüntüsü%202024-02-20%20091135.png)
-
-![](images/Ekran%20görüntüsü%202024-02-20%20091207.png)
-
-![](images/Ekran%20görüntüsü%202024-02-20%20091232.png)
